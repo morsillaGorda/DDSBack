@@ -125,6 +125,8 @@ const socios = sequelize.define(
       }      
     },
   },
+
+  
   {
     // pasar a mayusculas
     hooks: {
